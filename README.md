@@ -7,6 +7,6 @@
 
 ## This repository is of help to anyone who is?
 
-- Anyone who is currently preparing for coding interviews / programming interviews
+- Currently preparing for coding interviews / programming interviews
 
-- Anyone who wants to improve their problem solving / coding skills in general (coding interviews are a good way to practice these skills)
+- Who wants to improve their problem solving / coding skills in general
