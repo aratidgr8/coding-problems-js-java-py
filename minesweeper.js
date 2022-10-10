@@ -25,8 +25,8 @@ const mine_sweeper = (bombs, num_rows, num_columns) => {
      * Set the selected location element to -1
      */
     bombs.map(bomb => {
-        let row_i = [bomb[0]]
-        let col_i = [bomb[1]]
+        let row_i = bomb[0]
+        let col_i = bomb[1]
         field[row_i][col_i] = -1;
         /**
          * Run double for loops over all 9 cells for every bomb cell
