@@ -9,6 +9,8 @@
 
 ## This repository is of help to anyone who is?
 
-- Currently preparing for coding / programming interviews
+- Currently preparing or conducting coding / programming interviews
 
 - Who wants to improve their problem solving / coding skills in general
+
+- It is also useful for someone who is trying to brush up algorithm skills 
