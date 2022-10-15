@@ -1,0 +1,8 @@
+/**
+ * A tree in which every node has, left sub-tree <= value <= right sub-tree is known as "Binary Search Tree"
+ * Refer to what-is-a-bst.png
+ * Here headA is BST because, 3 > 1 & 3 < 5, 1 > 0 & 1 < 2, 5 > 4 & 5 < 6
+ * Similarly headB is not a BST beacause, 1 > 0 & 1 < 3, 4 > 1  but not less 2
+ * Lastly headC is also not a BST beacause, 0 < 1 < 2, 3 < 5 < 6, 1 < 4 < 5 but "3" which is in right sub-tree of 4 is not greater than 4.
+ * Write function which returns True / False depending on whether the given binary tree is a BST or not.
+ */
