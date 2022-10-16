@@ -9,8 +9,18 @@
 
 ## This repository is of help to anyone who is?
 
-- Currently preparing or conducting coding / programming interviews
+- Currently preparing or conducting coding / programming interviews.
 
-- Who wants to improve their problem solving / coding skills in general
+- Who wants to improve their problem solving / coding skills in general.
 
-- It is also useful for someone who is trying to brush up algorithm skills 
+- Objective of this repository is to make learning computer science and coding easy for anyone.
+
+- There could multiple different ways to solve these problems, but the ones that I have choosen are keeping in mind simplicity and effeciency.
+
+## Requirements
+
+- You should be familiar with at least one C-like programming language (could be Java, Python, C++, Ruby, JavaScript, etc.)
+
+- You should be familiar with basic data structures such as arrays, hash tables, linked lists, trees, and graphs.
+
+- You should be familiar with the Big O notation.
